@@ -1,0 +1,222 @@
+ ....loading....
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+</head>
+<body>
+</body>
+</html>
+body {
+background:none repeat scroll 0 0 #DEDEDE;
+font:10pt/14pt verdana,arial,sans-serif;
+margin:0;
+}
+a:link {
+color:#3333FF;
+text-decoration:none;
+}
+a:hover {
+color:#CC3333;
+text-decoration:underline;
+}
+a:active {
+color:#3333FF;
+text-decoration:none;
+}
+a:active:hover {
+color:#CC3333;
+text-decoration:underline;
+}
+a:visited {
+color:#3333FF;
+text-decoration:none;
+}
+a:visited:hover {
+color:#CC3333;
+text-decoration:underline;
+}
+#header {
+background:url("../images/logo/geocomputation.gif") no-repeat top #FFFFFF;
+height:188px;
+margin-left:auto;
+margin-right:auto;
+width:770px;
+}
+#container {
+background:none repeat scroll 0 0 #FFFFFF;
+border:2px solid;
+margin:20px auto;
+width:770px;
+}
+.pleaseNote {
+color:red;
+font:bold 10pt/14pt verdana,arial,sans-serif;
+}
+#navcontainer {
+background:none repeat scroll 0 0 #E1CD48;
+margin-left:auto;
+margin-right:auto;
+padding:10px;
+width:740px;
+}
+#keyInfo {
+border:2px solid red;
+color:black;
+font:9pt/14pt verdana,arial,sans-serif;
+margin-left:3%;
+margin-right:3%;
+padding:2%;
+width:85%;
+}
+#navlist li {
+background:none repeat scroll 0 0 #E1CD48;
+color:#666666;
+display:inline;
+font-family:verdana,arial,sans-serif;
+font-size:14px;
+font-weight:bold;
+list-style-type:none;
+margin-left:auto;
+margin-right:auto;
+padding-right:10px;
+width:740px;
+}
+#navlist li a:link {
+color:#3333FF;
+text-decoration:none;
+}
+#navlist li a:visited {
+color:#3333FF;
+text-decoration:none;
+}
+#navlist li a:hover {
+color:#CC3333;
+text-decoration:none;
+}
+.sponsorlist {
+color:#3333FF;
+}
+h3 {
+color:#34517E;
+font-size:21px;
+font-weight:bold;
+}
+h4 {
+color:#34517E;
+font-size:15px;
+font-weight:bold;
+}
+h1 {
+color:#940000;
+font-weight:bold;
+}
+.content {
+font:9pt/14pt verdana,arial,sans-serif;
+padding:21px;
+text-align:justify;
+}
+#footer {
+background:url("footerbg.gif") no-repeat scroll left top #FFFFFF;
+color:#333333;
+font:8pt/14pt verdana,arial,sans-serif;
+height:66px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+width:740px;
+}
+.title {
+color:#999999;
+font:bold 18pt/24pt verdana,arial,sans-serif;
+padding-left:21px;
+}
+.highlightAttention {
+background-color:yellow;
+}
+.sponsorlist {
+}
+#sponsorlist a:link {
+color:white;
+text-decoration:none;
+}
+#sponsorlistt a:visited {
+color:white;
+text-decoration:none;
+}
+#sponsorlist a:hover {
+color:white;
+text-decoration:none;
+}
+#sponsorlist a:active {
+color:white;
+text-decoration:none;
+}
+/* Map Box */	
+
+.mapbox {
+width: 500px;
+height: 350px;
+border: none;
+margin: none;
+}
+
+/* Logos*/
+
+.ucl_logo 
+{
+width: 502px;
+height: 149px;
+border: none;
+margin-left: auto;
+margin-right: auto;
+display: block;
+background-image: url("../images/logo/small_ucl.jpeg");
+}
+
+.box1 {
+width: 100%;
+padding: 0px;
+border: none;
+margin: none;
+}
+
+.fotheringham
+{float:right;
+    width: 120px;
+	height: 160px;
+	margin-left: 10px;
+	z-index: +1;
+	background: url("fotheringham.jpg") no-repeat center;
+	}
+	
+.clarke
+{float:right;
+    width: 120px;
+	height: 160px;
+	margin-left: 10px;
+	z-index: +1;
+	background: url("clarke.jpg") no-repeat center;
+	}
+	.batty
+{float:right;
+    width: 120px;
+	height: 160px;
+	margin-left: 10px;
+	z-index: +1;
+	background: url("batty.jpg") no-repeat center;
+	}
+	.nijkamp
+{float:right;
+    width: 120px;
+	height: 160px;
+	margin-left: 10px;
+	z-index: +1;
+	background: url("nijkamp.jpg") no-repeat center;
+	}
+	.wood
+{float:right;
+    width: 120px;
+	height: 160px;
+	margin-left: 10px;
+	z-index: +1;
+	background: url("wood.jpg") no-repeat center;
+	}

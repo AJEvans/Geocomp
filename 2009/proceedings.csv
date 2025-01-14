@@ -1,0 +1,60 @@
+Authors,title,file,type
+Mark Gahegan,Geocomputation: The application of impossibly sophisticated methods to fiendishly complex datasets by hopelessly optimistic researchers,Gahegan.pdf,Keynote Presentation
+J. Arundel & S. Winter,Planning ahead in a harvesting variant of the travelling salesperson problem,Arundel_and_Winter.pdf,Papers
+"Peter M. Atkinson, C. Jeganathan & J. Dash",Analysing the effect of different geocomputational techniques on estimating phenology in India,Atkinson_et_al.pdf,Papers
+David A. Bennett & Wenwu Tang,GAIA-RM: A Geographically Aware Intelligent Agents Framework for Rangeland Management,Bennett_and_Tang.pdf,Papers
+"S. Bertazzon, S. Olson, J. Norris & O. Elikan",Localized spatial regression modelling of health data,Bertazzon_et_al.pdf,Papers
+Chris Brunsdon,Finding Fault: Identifying and Testing ‘Social Faultlines’ in Surface Fitting Techniques,Brunsdon.pdf,Papers
+"Rizwan Bulbul, Farid Karimipour and Andrew U. Frank",A Simplex based Dimension Independent Approach for Convex Decomposition of Nonconvex polytopes,Bulbul_et_al.pdf,Papers
+"Graeme Byrne, Martin Charlton & Stewart Fotheringham",Multiple dependent hypothesis tests in GWR,Byrne_et_al.pdf,Papers
+"Adam Carrigan, Marji Puotinen & Rittick Borah",Tropical Cyclone Induced Cooling Zones:  A Geocomputational Hazard,Carrigan_et_al.pdf,Papers
+Tao Cheng & Berk Anbaro?lu,Methods on defining spatio-temporal neighbourhoods,Cheng_and_Anboroglu.pdf,Papers
+"Alexis J. Comber, Chris Brunsdon, Satoshi Sasaki & Hiroshi Suzuki","Using census area in site location selection in planning: ambulance locations in Niigata, Japan",Comber_et_al.pdf,Papers
+"Conley, J.",An Evaluation of the Extended Power of Cluster Detection Methods Under Sampling Strategies,Conley.pdf,Papers
+S. Coveney,Persistent Vegetation error in Aerial LiDAR DSMs: Impact on spatial models of inundation risk,Coveney.pdf,Papers
+"M. Duckham, D. Nussbaum, J-R. Sack & N.Santoro",Designing decentralized spatial algorithms for geosensor networks,Duckham_et_al.pdf,Papers
+"E. Eberhardt, S. Mitchell & L. Fahrig","Current and probable past wildlife fatality hotspots on the Thousand Islands Parkway, Ontario, Canada",Eberhardt_et_al.pdf,Papers
+Carson Farmer,Data driven functional regions,Farmer.pdf,Papers
+"A. Stewart Fotheringham, Mary Kelly, Martin Charlton & Magda Biesada",Spatial Variations in Population Dynamics: A GIScience and GWR Perspective using a Case Study of Ireland 1841-1851,Fotheringham_et_al.pdf,Papers
+Lin-Jie Guan & Matt Duckham,Decentralized computing of topological relationships between heterogeneous regions,Guan_and_Duckham.pdf,Papers
+"Z. Huang, S. Nichol, J. Daniell, J. Siwabessy & B. Brooke","Predictive Modelling of Seabed Sediment Parameters Using Multibeam Acoustic Data: A Case Study on the Carnarvon Shelf, Western Australia",Huang_et_al.pdf,Papers
+Bin Jiang & Tao Jia,Studying spatial effects on human mobility patterns using agent-based simulations,Jiang_and_Jia.pdf,Papers
+Aisan Kazerani & Stephan Winter,Modified Betweenness Centrality for Predicting Traffic Flow,Kazerani_and_Winter.pdf,Papers
+B.F.J. Kelly & B.M.S. Giambastiani,Functional Programming Algorithms for Constructing 3D Geological Models,Kelly_and_Giambastiani.pdf,Papers
+Yee Leung & Yu Zhou,Analysis of Scaling Behavior in Spatial Systems with Large Oscillations of Temporal Fluctuation,Leung.pdf,Papers
+"Paul Lewis, Stewart Fotheringham & Adam Winstanley",Role of Spatial Video in GIS,Lewis_et_al.pdf,Papers
+Jennifer A. Miller,"Spatial non-stationarity and the scale of species-environment relationships in the Mojave Desert, California, USA",Miller.pdf,Papers
+"A. B. Moore, Y. Hammam & P. A. Whigham",A simple agricultural land use model implemented using Geographical Vector Agents (GVA),Moore_et_al.pdf,Papers
+F. Morgan & D. O’Sullivan,"Residential developers: Competition, behaviour and the resulting urban landscape",Morgan_and_OSullivan.pdf,Papers
+"T. Nakaya, A. S. Fotheringham, M. Charlton & C. Brunsdon",Semiparametric geographically weighted generalised linear modelling in GWR 4.0,Nakaya_et_al.pdf,Papers
+"A. Nara, K. Izumi, H. Iseki, T. Suzuki, K. Nambu & Y. Sakurai",Trajectory Data Mining for Surgical Workflow Analysis,Nara_et_al.pdf,Papers
+"Yoshifumi Nishida, Yoichi Motomura, Koji Kitamura & Tatsuhiro Yamanaka",Representation and Statistical Analysis of Childhood Injury by Bodygraphic Information System,Nishida_et_al.pdf,Papers
+"O. Okwuashi J., McConchie, P. Nwilo & E. Eyo",Stochastic GIS cellular automata for land use change simulation: application of a kernel based model,Okwuashi_et_al.pdf,Papers
+D. O’Sullivan & G.L.W. Perry,Simulating long distance dispersal processes in spatially heterogeneous landscapes,OSullivan_and_Perry.pdf,Papers
+Marji Puotinen,Minimising Processing Time when Reconstructing Tropical Cyclone Wind Fields using GIS,Puotinen.pdf,Papers
+"D. Rosauer, S. Ferrier, G. Manion, S.W. Laffan & K. Williams",Nice weather for frogs – using environmental data to model phylogenetic turnover,Rosauer_et_al.pdf,Papers
+"Sohail Shafii, Bernd Hamann, Rachel Hutchinson, Oliver Kreylos & Joshua Viers",Tree Detection and Delineation of the Cosumnes River Preserve,Shafi_et_al.pdf,Papers
+Mingzheng Shi & Stephan Winter,Building a multi-granularity sensor network using 2-dominating sets,Shi_and_Winter.pdf,Papers
+Glen Stichbury & Lars Brabyn,Predicting Water Availability in the Antarctic Dry Valleys Using GIS and Remote Sensing,Stichbury_and_Brabyn.pdf,Papers
+"A. Takizawa, W. Koo & N. Katoh","Discovering Distinctive Spatial Patterns on Snatch in
+Kyoto City with CAEP",Takizawa_et_al.pdf,Papers
+Wenwu Tang & David A. Bennett,Parallel Agent-based Modelling of Land-Use Opinion Dynamics Using Graphics Processing Units,Tang_and_Bennett.pdf,Papers
+"T. L. Timmins, A. J. S. Hunter & G. B. Stenhouse",Modelling spatial dependence in grizzly bear health and environmental data in the Alberta Rocky Foothills,Timmins_et_al.pdf,Papers
+Ian Turton,Experiences Teaching GIS with Open Source Software,Turton_1.pdf,Papers
+Ian Turton,Why Geolocating Written Routes is Harder than it Looks,Turton_2.pdf,Papers
+Ning Wu & Elisabete. A. Silva,Integration of genetic agents and cellular automata for dynamic urban growth modelling,Wu_and_Silva.pdf,Papers
+Yichun Xie and Ting Ma,Simulating self-organized spatial patterns induced by overgrazing,Xi_and_Ma.pdf,Papers
+"B. A. AbdelHamid, A. L. Griffin & P. Durr",Developing a spatial-statistical model and map of the horse population in Australia,AbdelHamid_et_al.pdf,Posters
+"R. Borah, M. Puotinen & O. Price",Line Intersect Sampling Tool (LIST): A GIS-based tool for Spread Analysis,Borah_et_al.pdf,Posters
+"Y. Choi, H. Yi & H. D. Park",Raster modeling of surface runoff accumulation by incorporating artificially constructed water handling structures,Choi_et_al.pdf,Posters
+"Stesha A. Doku, Samsung Lim","Using GIS to Examine the Health Status of Immigrant and Indigenous Groups in New South Wales, Australia",Doku_and_Lim.pdf,Posters
+Wenxiu GAO & Jianya Gong,Exploratory Construction of Generalisation Rules for Landuse Vector Data Generalisation,Gao_and_Gong.pdf,Posters
+Y. Hanashima & K. Yamazaki,The Iterative Method in Multi-criteria Decision Analysis: A Case Study of Fuzzy GIS,Hanashima_and_Yamazaki.pdf,Posters
+"Ricky Jacob, Jianghua Zheng, Adam C. Winstanley, B?azej Ciep?uch & Peter Mooney",A Multi-lingual pedestrian navigation and campus guidance system using CloudMade API,Jacob_et_al.pdf,Posters
+"S. Kim, C. A. Arrowsmith & J. Handmer",Coastal vulnerability assessment with an indicator based approach,Kim_et_al.pdf,Posters
+"B. Mitchell, D. Markovic, D. Rotheray, S. Measho & J. Barros",Dutch elm disease on the Isle of Man – Identifying ‘danger-spots’ using an agent-based model,Mitchell_et_al.pdf,Posters
+M. Salah & J. C. Trinder,Fuzzy ARTMAP Neural Networks for Automatic Feature Extraction from Aerial Images and Lidar Data,Salah_and_Trinder.pdf,Posters
+Rajesh Bahadur Thapa & Yuji Murayama,Land Use Change Factors in Kathmandu Valley: A GWR Approach,Thapa_and_Murayama.pdf,Posters
+Yunhui Wu & Stephan Winter,Inferring Relevant Gazetteer Instances to a Placename,Wu_and_Winter.pdf,Posters
+"Wenjie Wu, Zhengbin Dong, Wenzhong Zhang, Fengjun Jin and Xiujun Ma",Spatio-Temporal Structural Analysis of Inter-Urban Aviation Network in China,Wu_et_al.pdf,Posters
+"Xin Zhang, K. Tocque, J. Boothby & P. Cook",Exploration of Relationship between Social Status and Mortality Rates in England,Xin_et_al.pdf,Posters

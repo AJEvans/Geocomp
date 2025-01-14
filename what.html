@@ -1,0 +1,224 @@
+<HTML>
+
+<HEAD>
+<TITLE>GeoComputation</TITLE>
+<LINK rel="stylesheet" href="style.css" type="text/css">
+</HEAD>
+
+<BODY>
+<CENTER>
+<TABLE width=550>
+<TR>
+<TD>
+
+<TABLE width=550 cellspacing=0 cellpadding=0>
+<TR>
+<TD align=right><IMG  src="word.gif"></TD> 
+<TD ROWSPAN=2><IMG src="globe.gif"></TD></TR>
+<TR><TD><IMG src="cards.gif"></TD></TR>
+<TR>
+<TD colspan=2>What is GeoComputation? A history and outline.</TD>
+</TR>
+</TABLE>
+
+</TD>
+</TR>
+
+<TR>
+<TD>
+<P></P>
+<H4>Introduction</H2>
+<P>
+The first international conference on 'GeoComputation', hosted by the School of Geography at the University of Leeds in 1996, heralded the launch of a new 
+research agenda in geographical analysis and modelling (Openshaw and Abrahart, 1996). 
+A measure of the interest generated in this field is that the conference has become 
+established as a yearly event (Otago, New Zealand, 1997; Bristol, UK, 1998; Virginia, USA, 1999; 
+Greenwich, UK, 2000) 
+that will next be held at the <a href="http://www.geosp.uq.edu.au/gc2001/">University of Queensland</a> 
+(Australia) in 2001. Although there is certainly a reliance on computer science as an enabling technology, 
+the term 'GeoComputation' is not intended as a synonym for GIS or spatial information theory — 
+these being somewhat at odds with the original and ongoing vision. This brief note attempts to 
+explain that vision, to describe the enabling technology in terms of what it offers geographical 
+analysis and to outline some of the research questions that GeoComputation faces.
+</P>
+<H4>The Murky History</H4>
+<P>
+The late 1960's and early 1970's gave rise to a quantitative revolution in 
+geography, as labelled by Haggett and Chorley (1967). Computing became widely 
+accessible as a geographic tool, enabling a range of previously intractable 
+problems to be analysed. An excellent account of the somewhat turbulent 
+history of that time is given by Macmillan (1997). One interpretation of 
+this period is that the computers became the slaves of the quantitative 
+geographers. Lots of (very messy) Fortran code was written, lots of punched 
+card stacks were dropped (or thrown) and some respectable geographers 
+joined the ranks of the bearded, nocturnal hackers that haunted the 
+'machine room'. Geographers began to look for more data (because now 
+they could actually analyse it) and to build more complex models. 
+</P>
+<H4>Disabling Technology</H4>
+<P>
+The late 1970's and early 1980's saw the rise of databases; large 
+monolithic systems that standardised on interfaces, file structures 
+and query languages. Like all generic solutions there was a cost — flexibility 
+and performance were sacrificed for robustness and ease of application 
+construction. Early GIS show evidence of these same engineering compromises. 
+GIS saw to it that geographers became the slaves of the computer, having 
+to adopt the impoverished representational and analysis capabilities that 
+GIS provided, in exchange for ditching the Fortran, getting some sleep 
+and producing much prettier output.
+</P>
+<P>
+GIS was, for some, a backwards step because the data models and analysis 
+methods provided were simply not rich enough in geographical concepts and 
+understanding to meet their needs. (It is entirely possible that computer 
+scientists invented GIS out of spite, being fed up with all those quantitative 
+geographers hogging their CPU cycles and clogging up the disks with kilobytes(!) 
+of data.) Consequently, many of the geographical analysis problems that gave 
+rise to the quantitative revolution in the first place could not be addressed 
+in these systems. Quantitative geographers switched over to GIS or they went 
+to the back of the research funding line.
+</P>
+<P>
+In the intervening time, GIS have improved somewhat and geography 
+has become very much richer in digital information. The requirement to build 
+complex applications and simulations has not receded, if anything it has become 
+more urgent, with the need to plan for a changing climate, to feed an increasing 
+population and to provide pinpoint marketing analysis for digital encyclopaedia salespeople.
+</P>
+<H4>The Focus of GeoComputation</H4>
+<P>
+GeoComputation represents a conscious attempt to move the research agenda 
+back to geographical analysis and modelling, with or without GIS in tow. 
+Its concern is to enrich geography with a toolbox of methods to model and 
+analyse a range of highly complex, often non-deterministic problems. It is 
+about not compromising the geography, nor enforcing the use of unhelpful or 
+simplistic representations. It is a conscious effort to explore the middle 
+ground from the doubly-informed perspective of geography and computer science. 
+A true enabling technology for the quantitative geographer, a rich source of 
+computational and representational challenges for the computer scientist. 
+</P>
+<H4>Enabling Technology</H4>
+<P>
+GeoComputation is enabled in part by the continuing development of 
+analytical statistics that can be applied to clustering, search and 
+measures of association over space and through time. However, the 
+successful scaling of these analysis methods to larger problems relies 
+on a number of significant advances in computer science:
+</P>
+
+<P>
+<STRONG>Computer architecture and design:</STRONG>
+</P>
+<P>
+Improvements in computing performance and the 
+development of massively parallel architectures have enabled previously intractable 
+analysis problems to be addressed via deterministic means. Hence the interest in both 
+coarse and fine-grained parallelism (e.g. groups at 
+<a href="http://www.geo.ed.ac.uk/home/research/EMMGIS.html">Department of Geography, University of Edinburgh</a> 
+and 
+<a href="http://www.leeds.ac.uk/ucs/projects/benchmarks/index.html">Centre for Computational Geography, 
+University of Leeds</a>.
+</P>
+
+<P>
+<STRONG>Search, classification, prediction and modelling:</STRONG>
+</P>
+<P>
+Progress in pattern recognition, 
+classification and function approximation tools, originating from the artificial intelligence 
+community (such as decision trees, neural networks and genetic algorithms), now provide 
+sophisticated capabilities for tackling a range of non-deterministic problems. These techniques 
+make some significant advances over traditional techniques, such as k-means clustering measures, 
+principal component analysis and maximum likelihood classification in that they are (by comparison at least): 
+robust in the presence of noise, flexible in the statistical types that can be combined, able to work 
+with attribute spaces of very high dimensionality, require less training data and make fewer prior 
+assumptions about data distributions and model parameters. (e.g. 
+<a href="http://www.cs.curtin.edu.au/gis/donnet/">Donnet neural network landcover classifier</a> 
+from Curtin University, Australia; 
+<a href="http://nexus.srnr.Arizona.EDU/~gimblett/rbsim.html">recreation behaviour simulator</a> 
+from the University of Arizona, USA; and 
+<a href="http://www.econ.iastate.edu/tesfatsi/ace.htm">agent-based computational economics tools</a> 
+from Iowa State University, USA)
+</P>
+
+<P>
+<STRONG>Knowledge discovery:</STRONG>
+</P>
+<P> 
+Advances in the mechanisms by which knowledge can be distilled from large 
+datasets as a result of data mining and knowledge discovery tools. The sheer volumes of 
+geographically-oriented data now available in some spatial databases defy conventional 
+approaches to reporting and analysis. (e.g. the recent NCGIA Varenius 
+<A href="http://www.ncgia.ucsb.edu/varenius/discovering/call.html">meeting</A> on knowledge 
+discovery and data mining, 
+knowledge discovery in spatial databases, 
+<A href="http://www.dbs.informatik.uni-muenchen.de/dbs/projekt/knowledge/Einstieg.html">Computer Science, Munich, 
+Germany</A>, 
+analysis and exploration machines for geography, 
+<A href="http://www.geog.leeds.ac.uk/research/geocomp.html">Centre for Computational Geography, Leeds 
+University</A>, UK).
+</P>
+
+<P>
+<STRONG>Visualisation:</STRONG>
+</P>
+<P>
+Advances in visualisation as a means of data exploration are providing 
+new tools and approaches to help gain insight into complex and multi-dimensional datasets.  
+Visual portrayal can illicit understanding by adopting a representational form that is much 
+more readily assimilated by people than statistical summaries of correlation or clustering. 
+(e.g. <a href="http://www.geovista.psu.edu/">GeoVista Center, Penn State Geography</a> or 
+<a href="http://www.geog.le.ac.uk/research/dove_gisrs.html">Geography, Leicester</a>).
+</P>
+
+
+<H4>Some problems for GeoComputation</H4>
+<P>
+Problems remain before this new technology is effectively harnessed. Many of these 
+are methodological; sophisticated tools require sophisticated set-up and operation. 
+Although there are many reported examples of the use of these tools in the earth 
+sciences literature, their use often incurs a considerable investment in terms of 
+customisation, set-up, experimentation and testing before useful results are 
+obtained. So, GeoComputation must overcome some significant challenges if 
+the techniques are to become established in the toolbox of the geographer. These challenges include:
+</P>
+<ol>
+<li>the inclusion of geographical 'domain knowledge' within the tools to improve performance and reliability</LI>
+<li>the design of suitable geographic operators for data mining and knowledge discovery</LI>
+<li>the development of robust clustering algorithms able to operate across a range of spatio-temporal scales</LI>
+<li>obtaining computability on geographical analysis problems too complex for current hardware and software</LI>
+<li>visualisation and virtual reality paradigms that support a visual approach to exploring, understanding and 
+communicating geographical phenomena.</LI>
+</ol> 
+<P>
+In short, there is a gap in knowledge between the abstract functioning of these tools 
+(which is usually well understood in the computer science community) and their successful 
+deployment to the complex applications and datasets that are commonplace in geography. 
+It is precisely this gap in knowledge that GeoComputation aims to address.
+</P>
+<P>
+Mark Gahegan,
+<br>Department of Geography, The Pennsylvania State University, USA. Email: 
+<A href="mark@geog.psu.edu">mark@geog.psu.edu</A>.
+</P>
+<P>
+On behalf of the <A href="steer.html">GeoComputation International Steering Group</A>.
+</P>
+<H4>References</H4>
+<P>
+Haggett and Chorley (1967) (Eds.), Models in Geography, Methuen, UK.
+</P>
+<P>
+Macmillan, W. D. (1997), Computing and the science of geography: the postmodern turn and the geocomputational twist. Proc. 2nd International Conference on GeoComputation (Ed. Pascoe, R. T.), University of Otago, New Zealand, pp. 1-11.
+</P>
+
+<P>
+Openshaw, S. and Abrahart, R. J. (1996), Geocomputation. Proc. 1st International Conference on GeoComputation (Ed. Abrahart, R. J.), University of Leeds, UK, pp. 665-666.
+</P>
+</TD>
+</TR>
+</TABLE>
+
+</CENTER>
+
+</BODY>
